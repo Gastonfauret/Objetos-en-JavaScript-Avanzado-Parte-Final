@@ -79,7 +79,7 @@ const estadistics = {
 const mitad = ({max, min}) => (max + min) / 2.0;
 console.log(mitad(estadistics)); // 28.015
 
-//Plantillas Literales o Plantillas Literales (interpolacion).
+//Plantillas Literales o Cadenas Literales (interpolacion).
 
 var a = 6;
 console.log(`El valor de a es ${a}`); // El valor de a es 6
